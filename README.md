@@ -1,3 +1,6 @@
 # DatabaseSystemsCompleteBookSolutions
 # DatabaseSystemsCompleteBookSolutions
 # DatabaseSystemsCompleteBookSolutions
+# DatabaseSystemsCompleteBookSolutions
+# DatabaseSystemsCompleteBookSolutions
+# MachineLearning_HighDimSpace_Midterm
