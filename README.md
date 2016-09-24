@@ -1,7 +1,1 @@
-# DatabaseSystemsCompleteBookSolutions
-# DatabaseSystemsCompleteBookSolutions
-# DatabaseSystemsCompleteBookSolutions
-# DatabaseSystemsCompleteBookSolutions
-# DatabaseSystemsCompleteBookSolutions
-# MachineLearning_HighDimSpace_Midterm
-# MachineLearning_HighDimSpace_Midterm
+# IntroToPython_CourseMaterial
